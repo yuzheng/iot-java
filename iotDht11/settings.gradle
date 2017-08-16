@@ -1,0 +1,2 @@
+include 'chtiotlib'
+project(':chtiotlib').projectDir = new File('/Users/wangyuzheng/Documents/workspace/chtiotlib')

@@ -1,0 +1,5 @@
+#org.springsource.ide.eclipse.gradle.core.preferences.GradleProjectPreferences
+#Wed Aug 16 15:00:49 CST 2017
+build.family.org.gradle.tooling.model.eclipse.HierarchicalEclipseProject=;../chtiotlib;
+org.springsource.ide.eclipse.gradle.linkedresources=
+org.springsource.ide.eclipse.gradle.rootprojectloc=
