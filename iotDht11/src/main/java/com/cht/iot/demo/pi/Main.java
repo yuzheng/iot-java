@@ -38,8 +38,8 @@ public class Main {
 	
 	final String host = "iot.cht.com.tw"; // CHANGE TO ONLINE SERVER	
 	
-	final String restfulHost = "211.20.181.194";
-	final int restfulPort = 80;
+	final String restfulHost = "iot.cht.com.tw";
+	final int restfulPort = 443;
 	private OpenRESTfulClient restful;
 	
 	final int mqttPort = 1883;
